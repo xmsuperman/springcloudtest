@@ -1,2 +1,4 @@
 info:
   profile: default
+config:
+  info: config info test
